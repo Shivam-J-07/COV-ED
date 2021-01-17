@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7119c75b-4be5-b720-c4de-9a5e6f548680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glTFast", "glTFast.csproj", "{c2d624d9-8ca1-ce4e-9463-a727c420cfec}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glTFastSchema", "glTFastSchema.csproj", "{f58f80d8-72a0-dd2c-8617-93ddf8d10aca}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siccity.GLTFUtility", "Siccity.GLTFUtility.csproj", "{978249de-0a75-d0ae-d3b4-616bde5b76c4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draco", "Draco.csproj", "{cd452f69-6642-c19b-df96-ab8fa36c1884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glTFastFakeSchema", "glTFastFakeSchema.csproj", "{63b7c4dc-b17a-0ad2-be01-db547a60eba0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glTFSampleModels", "glTFSampleModels.csproj", "{89b0a645-4f01-a900-e652-1fda78af21d7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "glTFastTests", "glTFastTests.csproj", "{b0703065-2a30-afb5-db56-82b91765e122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siccity.GLTFUtility.Editor", "Siccity.GLTFUtility.Editor.csproj", "{85f00d91-a8f3-d2a5-3719-e45866ee7bd6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7119c75b-4be5-b720-c4de-9a5e6f548680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7119c75b-4be5-b720-c4de-9a5e6f548680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c2d624d9-8ca1-ce4e-9463-a727c420cfec}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c2d624d9-8ca1-ce4e-9463-a727c420cfec}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f58f80d8-72a0-dd2c-8617-93ddf8d10aca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f58f80d8-72a0-dd2c-8617-93ddf8d10aca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978249de-0a75-d0ae-d3b4-616bde5b76c4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978249de-0a75-d0ae-d3b4-616bde5b76c4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cd452f69-6642-c19b-df96-ab8fa36c1884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cd452f69-6642-c19b-df96-ab8fa36c1884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63b7c4dc-b17a-0ad2-be01-db547a60eba0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63b7c4dc-b17a-0ad2-be01-db547a60eba0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89b0a645-4f01-a900-e652-1fda78af21d7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89b0a645-4f01-a900-e652-1fda78af21d7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b0703065-2a30-afb5-db56-82b91765e122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b0703065-2a30-afb5-db56-82b91765e122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85f00d91-a8f3-d2a5-3719-e45866ee7bd6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85f00d91-a8f3-d2a5-3719-e45866ee7bd6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
